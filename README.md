@@ -1,6 +1,6 @@
 **Point and Asterisks**
 
-Description
+**Description**
 
 "Point and Asterisks" is a logic game where players try to guess a 4-digit number (without repeating digits) chosen by their opponent. Each player receives clues in the form of "points" and "asterisks" to help them decipher the correct number.
 
@@ -33,18 +33,18 @@ Asterisks: Awarded when a digit is correct but in the wrong position.
 
 **Installation and Execution**
 
-Clone the repository:
+**Clone the repository:**
 
-git clone https://github.com/your-username/point-and-asterisks.git
+git clone https://github.com/Biggyhands/pointsAndAsterisksGame/
 
 Navigate to the project directory:
 
-cd point-and-asterisks
+-cd point-and-asterisks
 
 Install dependencies:
 
-npm install
+-npm install
 
 Start the application in development mode:
 
-npm run dev
+-npm run dev
